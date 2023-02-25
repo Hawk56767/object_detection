@@ -1,46 +1,21 @@
-  .heading
-  {
-    font-size: 23px;
-    width: 100%;
-    margin: 0px;
-    box-shadow:5px 5px 5px grey;
-  }
-  .heading_div
-  {
-    background: white ; 
-    border-radius: 20px; 
-    color: black;
-    box-shadow:5px 5px 5px grey;
-    float: none;
-    padding: 10px;
-  }
-  .heading_div2
-  {
-    font-size: 18px ;
-  }
-  .result_para_tag
-  {
-    box-shadow:5px 5px 5px grey;
-    font-size: 20px;
-  }
-  .result_para_tag span{
-  white-space: pre-line;
-  }
-  .copy_right_footer{
-  position: fixed;
-  color:darkcyan;
-  background-color:beige;
-  bottom:0;
-  width: 100%;
-  line-height:3;
-  text-align: center;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 18px;
-  }
-  canvas{
-  border: 5px solid beige;
-  border-radius: 20px;
-  box-shadow: 5px 5px 5px gray;
-  margin-top: 150px;
-  }
- 
+
+body{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
